@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import NoteForm from "./Components/NoteForm";
 import NoteCard from "./Components/NoteCard";
-import NotesAppLogo from "./assets/NotesAppLogo.png";
+import NotesAppLogo from "./assets/NOTESAPPLOGO.png";
 
 function App() {
   const [notes, setNotes] = useState(() => {
